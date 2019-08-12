@@ -1,0 +1,44 @@
+
+100000
+
+Run #1
+
+MapsBenchmark.usingApacheCollections      avgt   10  2530.802 ± 224.483  us/op
+MapsBenchmark.usingEclipseCollections     avgt   10   749.616 ± 527.663  us/op
+MapsBenchmark.usingForEachJava8           avgt   10   556.748 ± 126.821  us/op
+MapsBenchmark.usingForIteratorMapEntry    avgt   10   761.913 ±  91.213  us/op
+MapsBenchmark.usingForKeySet              avgt   10   882.227 ±  88.354  us/op
+MapsBenchmark.usingForMapEntry            avgt   10   798.870 ± 224.605  us/op
+MapsBenchmark.usingJava8ParallelStreams   avgt   10  2880.689 ± 562.843  us/op
+MapsBenchmark.usingJava8Streams           avgt   10   751.369 ±  99.833  us/op
+MapsBenchmark.usingWhileIteratorKeySet    avgt   10   841.524 ±  28.145  us/op
+MapsBenchmark.usingWhileIteratorMapEntry  avgt   10   761.278 ±  91.355  us/op
+
+
+Run #2
+
+MapsBenchmark.usingApacheCollections      avgt   10  2444.894 ± 152.086  us/op
+MapsBenchmark.usingEclipseCollections     avgt   10   716.097 ± 350.940  us/op
+MapsBenchmark.usingForEachJava8           avgt   10   520.263 ±  54.445  us/op
+MapsBenchmark.usingForIteratorMapEntry    avgt   10   715.275 ±  67.962  us/op
+MapsBenchmark.usingForKeySet              avgt   10   859.376 ± 110.843  us/op
+MapsBenchmark.usingForMapEntry            avgt   10   740.808 ±  39.199  us/op
+MapsBenchmark.usingJava8ParallelStreams   avgt   10  2868.202 ± 286.755  us/op
+MapsBenchmark.usingJava8Streams           avgt   10   721.362 ±  53.800  us/op
+MapsBenchmark.usingWhileIteratorKeySet    avgt   10   976.660 ± 397.000  us/op
+MapsBenchmark.usingWhileIteratorMapEntry  avgt   10   734.120 ±  88.830  us/op
+
+
+Run #3
+
+MapsBenchmark.usingApacheCollections      avgt   10  2529.361 ± 343.179  us/op
+MapsBenchmark.usingEclipseCollections     avgt   10   668.515 ± 113.208  us/op
+MapsBenchmark.usingForEachJava8           avgt   10   567.402 ±  84.557  us/op
+MapsBenchmark.usingForIteratorMapEntry    avgt   10   746.659 ± 102.065  us/op
+MapsBenchmark.usingForKeySet              avgt   10   875.486 ±  94.339  us/op
+MapsBenchmark.usingForMapEntry            avgt   10   770.997 ±  64.043  us/op
+MapsBenchmark.usingJava8ParallelStreams   avgt   10  2500.985 ± 669.362  us/op
+MapsBenchmark.usingJava8Streams           avgt   10   721.123 ±  51.720  us/op
+MapsBenchmark.usingWhileIteratorKeySet    avgt   10   858.110 ±  70.062  us/op
+MapsBenchmark.usingWhileIteratorMapEntry  avgt   10   743.067 ±  86.432  us/op
+
